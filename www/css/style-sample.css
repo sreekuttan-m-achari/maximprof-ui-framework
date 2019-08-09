@@ -1,0 +1,11 @@
+
+body{
+	background-color: black;
+}
+#navElement{
+	display: none;
+	margin-top: 10px;
+} 
+.start-btn{
+	margin-top: 15%;
+} 
